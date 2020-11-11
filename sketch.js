@@ -116,7 +116,7 @@ function draw() {
       reset();
     }
   }
-  
+  trex.debug() = true;
   
   drawSprites();
 }
